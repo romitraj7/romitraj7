@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romit Raj Singh</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate and enthusiastic Fullstack developer from India ,seeking opportunities to apply technical skills and knowledge in a professional environment. Eager to contribute to innovative projects and learn from experienced professionals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romitraj7&label=Profile%20views&color=0e75b6&style=flat" alt="romitraj7" /> </p>
 
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/romit-raj-singh-b9a496278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romit-raj-singh-b9a496278" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/romit2884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="romit2884" height="30" width="40" /></a>
 </p>
 
@@ -20,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romitraj7&show_icons=true&locale=en" alt="romitraj7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romitraj7&" alt="romitraj7" /></p>
-

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romit Raj Singh</h1>
 <h3 align="center">A passionate and enthusiastic Fullstack developer from India ,seeking opportunities to apply technical skills and knowledge in a professional environment. Eager to contribute to innovative projects and learn from experienced professionals.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romitraj7&label=Profile%20views&color=0e75b6&style=flat" alt="romitraj7" /> </p>
+
 
 - 🔭 I’m currently working on [realtime-whiteboard](https://github.com/romitraj7/realtime-whiteboard)
 
